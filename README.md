@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
 	<a href="https://github.com/gsirettito"><img src="https://gpvc.arturio.dev/gsirettito"></a> <!--Profile views-->
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=gsirettito&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=monokai"></a><br><br> <!--Trophies-->
-	<img src="https://github-readme-stats.vercel.app/api?username=gsirettito&show_icons=true&locale=en&theme=monokai"><br>
+	<a href=""><img src="https://github-profile-trophy.vercel.app/?username=gsirettito&no-frame=true&theme=monokai"></a><br><br> <!--Trophies-->
+	<img src="https://github-readme-stats.vercel.app/api?username=gsirettito&hide_border=true&show_icons=true&locale=en&theme=monokai"><br>
 </p>
 
 <!--
