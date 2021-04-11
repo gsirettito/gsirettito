@@ -1,4 +1,10 @@
-<h1 align="center">Hi there 👋</h1>
+## Hi there 👋
+
+I have been learning programming in a self-taught way since 2012. I’m currently a Telecommunications and Electronics Engineer since 2020.
+
+
+## 
+
 
 <p align="center">
 	<a href="https://github.com/gsirettito"><img src="https://gpvc.arturio.dev/gsirettito"></a> <!--Profile views-->
