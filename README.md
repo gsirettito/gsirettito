@@ -22,8 +22,8 @@ I have been learning programming in a self-taught way since 2012. I’m currentl
 </p>
 
 <p align="center">
-	<a href=""><img src="https://github-profile-trophy.vercel.app/?username=gsirettito&no-frame=true&theme=monokai"></a><br><br> <!--Trophies-->
-	<img src="https://github-readme-stats.vercel.app/api?username=gsirettito&hide_border=true&show_icons=true&locale=en&theme=monokai"><br>
+	<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=gsirettito&no-frame=true&theme=monokai"></a><br><br> <!--Trophies-->
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gsirettito&hide_border=true&show_icons=true&locale=en&theme=monokai"><br></a>
 </p>
 
 <!--
