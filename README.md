@@ -6,6 +6,16 @@ I have been learning programming in a self-taught way since 2012. I’m currentl
 ## 
 
 
+<div align="center" class="codeproject">
+	<a href="https://www.codeproject.com/Members/sirett"><img src="https://img.shields.io/badge/CodeProject-here-orange.svg?logo=codeproject"></a>
+	<p>
+		<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=12483808"><img src="https://img.shields.io/badge/dynamic/xml?label=Reputation&query=%2F%2Ftd%5B%40class%3D%27repscore%20theme-fore%27%5D%5B1%5D&url=https%3A%2F%2Fwww.codeproject.com%2Fmembers%2Fflair%2F12483808"></a>
+		<a href="https://www.codeproject.com/Articles/sirett#Article"><img src="https://img.shields.io/badge/dynamic/xml?label=Articles&query=%2F%2Ftd%5B%40class%3D%27artcount%27%5D&url=https%3A%2F%2Fwww.codeproject.com%2Fmembers%2Fflair%2F12483808"><a/>
+	</p>	
+</div>
+
+##
+
 <p align="center">
 	<a href="https://github.com/gsirettito"><img src="https://gpvc.arturio.dev/gsirettito"></a> <!--Profile views-->
 	<a href="mailto:guillermosiret@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-purple.svg"></a> <!--Contact-->
