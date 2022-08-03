@@ -41,8 +41,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<a href="https://github.com/gsirettito">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsirettito&langs_count=5&hide_border=true&show_icons=true&locale=en&theme=monokai"/>
+  </a>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/gsirettito/gsirettito/issues">
     <img src="https://img.shields.io/github/issues/gsirettito/gsirettito"/> 
   </a>
@@ -51,9 +56,6 @@ Here are some ideas to get you started:
   </a>  
   <a href="https://github.com/gsirettito/gsirettito/stargazers">
     <img src="https://img.shields.io/github/stars/gsirettito/gsirettito"/> 
-  </a>
-  <a href="https://github.com/gsirettito" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsirettito&langs_count=5&title_color=cc205e&text_color=ffffff&icon_color=6366f1&bg_color=272822&hide_border=true"/>
   </a>
     <a href="https://github.com/gsirettito/gsirettito/LICENSE">
     <img src="https://img.shields.io/github/license/gsirettito/gsirettito"/> 
