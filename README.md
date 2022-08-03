@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/gsirettito">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsirettito&langs_count=5&hide_border=true&show_icons=true&locale=en&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsirettito&langs_count=5&hide_border=true&show_icons=true&locale=en&theme=monokai&layout=compact"/>
   </a>
 </p>
 
