@@ -61,3 +61,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/github/license/gsirettito/gsirettito"/> 
   </a>
 </p>
+
+
+### Support :
+
+If you like **unshorten**, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via Buy Me a Coffee or Liberapay:  
+
+[!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/gsirettito)  
+<!--[![Support via Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/gsirettito/donate)  -->
